@@ -1,0 +1,19 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "timer app",
+  "main": "Timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hurntre/Timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hurntre/Timer/issues"
+  },
+  "homepage": "https://github.com/Hurntre/Timer#readme"
+}
